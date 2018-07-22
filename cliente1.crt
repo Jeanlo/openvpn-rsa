@@ -1,0 +1,136 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 2 (0x2)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=DO, ST=SA, L=Santiago, O=pucmm, OU=pucmm, CN=server/name=admin/emailAddress=jeanoscarcesar@pucmm.com\x08\x08\x08
+        Validity
+            Not Before: Jul 22 19:56:51 2018 GMT
+            Not After : Jul 19 19:56:51 2028 GMT
+        Subject: C=DO, ST=SA, L=Santiago, O=pucmm, OU=pucmm, CN=cliente1/name=admin/emailAddress=jeanoscarcesar@pucmm.edu.do
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (4096 bit)
+                Modulus:
+                    00:bc:19:a9:1a:79:64:7d:f6:98:87:04:8c:a7:1a:
+                    bb:36:09:9a:01:6d:26:da:f4:ba:99:30:f9:f3:02:
+                    b5:3c:aa:c6:99:3f:fa:c9:00:22:0d:e3:9f:f6:9d:
+                    b5:83:a4:2c:5c:23:56:92:06:7e:e5:cd:48:7a:ed:
+                    95:e6:b5:3b:d7:8d:35:b2:e1:45:8c:72:ba:60:a3:
+                    37:e6:ed:fa:bd:6e:16:26:d5:26:8a:35:ee:19:e5:
+                    e1:12:38:fb:3b:5d:21:24:83:2c:0b:0d:34:0f:71:
+                    4b:b4:26:3f:c9:b4:d6:17:69:78:69:c8:e8:ea:bc:
+                    41:a5:e7:3e:ad:82:0f:00:00:d6:18:69:30:4b:95:
+                    ba:9f:b2:6c:28:dc:5d:73:66:ba:ec:4c:1b:3a:51:
+                    01:61:12:d1:18:fa:9d:89:b3:f4:2d:80:6d:69:42:
+                    45:fb:ae:68:4e:c6:d7:d4:ca:c9:5a:7b:8a:48:1c:
+                    4f:6f:e1:58:73:41:21:3c:1d:eb:bc:d7:0f:5d:67:
+                    ca:70:4a:75:42:44:85:a4:b6:3c:30:85:2f:51:fb:
+                    c3:d1:f5:62:71:0b:70:51:88:db:6e:65:b4:ca:e3:
+                    0a:60:81:29:9a:60:08:07:bb:7b:22:e1:ec:c8:36:
+                    e8:32:29:12:f8:6b:a7:27:cd:6d:0d:0b:1e:4a:87:
+                    32:9e:23:09:9e:f0:f4:63:a7:e2:4b:08:41:ce:ff:
+                    8d:c9:c6:34:4f:2a:67:99:58:c2:67:e3:96:e5:c4:
+                    5d:32:f6:c0:bc:e5:d3:c7:ca:65:44:b2:5a:3f:c8:
+                    21:aa:8e:5f:ef:57:3f:00:4c:65:5c:16:4d:08:97:
+                    d1:49:3c:2a:08:d3:17:8e:72:ab:d3:08:cf:ed:6b:
+                    9c:59:f9:d2:c4:8e:85:b5:27:64:68:f4:79:fa:26:
+                    82:b9:a5:35:51:0c:11:11:d3:64:01:8f:df:c9:7a:
+                    4b:59:2d:86:3f:fd:f1:68:94:0b:ad:01:9b:44:dd:
+                    11:b3:58:0f:59:60:45:6b:93:b7:4c:20:dd:21:d4:
+                    a0:b4:aa:3b:e9:41:a9:1d:dc:4d:0a:f7:0f:1d:2c:
+                    ee:10:dd:07:de:f8:a8:cd:f7:f6:7b:66:7f:cf:b1:
+                    fa:d0:e0:12:29:11:85:e1:f2:1c:f3:a7:cc:9e:d0:
+                    98:63:eb:26:85:bf:4f:44:91:15:f3:a2:cb:39:c3:
+                    1f:fa:a8:49:70:8e:fc:ad:50:e3:dd:f4:49:d7:08:
+                    82:a4:55:2d:8d:ef:a3:01:4f:1a:f0:87:09:3e:97:
+                    fd:26:b1:0f:ec:a7:ce:f0:a7:55:3b:87:01:4d:e7:
+                    6e:cf:dd:b1:23:62:ab:8d:e7:8a:50:74:4e:a0:05:
+                    fc:8c:4b
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                Easy-RSA Generated Certificate
+            X509v3 Subject Key Identifier: 
+                0C:9F:AF:E3:BB:58:9C:3F:0D:A3:85:24:9D:39:42:A9:5B:58:27:8E
+            X509v3 Authority Key Identifier: 
+                keyid:1A:B5:15:AC:D8:24:1E:D4:0E:DA:05:3D:0D:D3:04:07:B5:3A:73:46
+                DirName:/C=DO/ST=SA/L=Santiago/O=pucmm/OU=pucmm/CN=server/name=admin/emailAddress=jeanoscarcesar@pucmm.com\x08\x08\x08
+                serial:D0:DD:D6:66:F9:3C:B1:70
+
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication
+            X509v3 Key Usage: 
+                Digital Signature
+    Signature Algorithm: sha1WithRSAEncryption
+         2b:06:d6:11:da:fc:e8:c1:04:9d:d3:15:8f:05:f7:59:18:58:
+         40:da:53:b1:e5:94:63:39:0c:f7:aa:81:88:c3:13:46:67:d1:
+         48:09:ce:64:8e:4d:b7:65:f0:bb:5e:57:1e:1a:58:56:db:23:
+         96:49:94:7e:50:ec:55:a8:ce:6a:62:e9:ca:60:48:0a:2d:ec:
+         f7:c2:47:a6:a3:09:ad:12:9c:3d:46:e3:76:03:77:7f:1a:5b:
+         d2:ee:dc:41:a8:6a:34:43:de:ff:95:84:d2:be:a8:bd:f7:54:
+         58:16:d2:44:3a:7e:80:c1:54:ec:f5:95:63:ef:22:84:d2:b9:
+         0b:3b:32:13:c0:67:e6:a3:ca:94:fb:80:a2:9c:90:d5:f8:e6:
+         4d:27:17:16:53:e1:7b:63:c2:1d:91:f1:c7:79:16:2a:6e:ba:
+         ca:b1:f9:45:e7:99:49:24:7c:b0:40:d1:04:d5:11:56:4c:8b:
+         ae:4a:5e:2a:5f:65:d8:a7:10:a2:5c:16:56:59:e4:60:db:74:
+         84:e7:65:93:f4:45:25:7a:e1:70:24:df:00:07:ba:77:cf:82:
+         56:73:f0:2d:f8:ab:b6:57:3d:b4:ae:c8:db:fd:de:bc:68:3e:
+         47:21:f6:4b:34:90:7c:57:65:87:a8:85:6c:7e:83:03:92:67:
+         2a:56:e3:44:7d:f1:54:f2:a8:98:8f:95:e4:8b:11:c3:c5:b2:
+         af:80:d6:69:79:50:39:7b:7c:bd:03:3e:70:d6:c4:fc:7d:af:
+         8f:98:10:f6:de:6c:7b:b3:0b:aa:99:b1:45:43:24:2c:ca:a8:
+         83:88:5a:04:f2:e9:f8:bd:89:59:78:50:f3:30:9f:bf:95:f9:
+         05:f1:29:d6:4c:63:21:cf:ad:7d:83:c0:9c:1b:81:b9:9d:1b:
+         85:33:fe:3a:f7:4f:63:e4:13:88:e3:2b:53:5b:f8:a6:be:d0:
+         d6:ef:49:9e:fc:5a:be:6e:73:0f:ce:e2:38:21:93:db:6a:2e:
+         f8:a1:47:58:ac:cd:0a:08:22:1c:36:f0:84:06:37:67:60:c4:
+         ca:5f:fd:d6:a5:56:58:4b:90:10:d3:d4:09:e7:42:85:5a:3c:
+         f1:ad:eb:11:15:d4:44:ef:fa:9a:79:c3:ce:8f:b4:b6:60:57:
+         e9:69:e9:14:26:9a:7b:18:1f:9a:7c:1c:5c:5f:d8:db:f6:d4:
+         e1:50:1f:bf:6f:f0:b0:ac:6e:8a:dc:c9:ce:b1:9c:e6:ac:ff:
+         ff:5b:21:dd:47:4e:79:30:59:94:6d:40:b1:f9:95:5c:f6:77:
+         46:71:75:ee:a9:16:5e:6e:dd:d2:a3:55:65:07:34:35:24:13:
+         67:e7:72:c0:9a:00:7f:18
+-----BEGIN CERTIFICATE-----
+MIIHBjCCBO6gAwIBAgIBAjANBgkqhkiG9w0BAQUFADCBmjELMAkGA1UEBhMCRE8x
+CzAJBgNVBAgTAlNBMREwDwYDVQQHEwhTYW50aWFnbzEOMAwGA1UEChMFcHVjbW0x
+DjAMBgNVBAsTBXB1Y21tMQ8wDQYDVQQDEwZzZXJ2ZXIxDjAMBgNVBCkTBWFkbWlu
+MSowKAYJKoZIhvcNAQkBFhtqZWFub3NjYXJjZXNhckBwdWNtbS5jb20ICAgwHhcN
+MTgwNzIyMTk1NjUxWhcNMjgwNzE5MTk1NjUxWjCBnDELMAkGA1UEBhMCRE8xCzAJ
+BgNVBAgTAlNBMREwDwYDVQQHEwhTYW50aWFnbzEOMAwGA1UEChMFcHVjbW0xDjAM
+BgNVBAsTBXB1Y21tMREwDwYDVQQDEwhjbGllbnRlMTEOMAwGA1UEKRMFYWRtaW4x
+KjAoBgkqhkiG9w0BCQEWG2plYW5vc2NhcmNlc2FyQHB1Y21tLmVkdS5kbzCCAiIw
+DQYJKoZIhvcNAQEBBQADggIPADCCAgoCggIBALwZqRp5ZH32mIcEjKcauzYJmgFt
+Jtr0upkw+fMCtTyqxpk/+skAIg3jn/adtYOkLFwjVpIGfuXNSHrtlea1O9eNNbLh
+RYxyumCjN+bt+r1uFibVJoo17hnl4RI4+ztdISSDLAsNNA9xS7QmP8m01hdpeGnI
+6Oq8QaXnPq2CDwAA1hhpMEuVup+ybCjcXXNmuuxMGzpRAWES0Rj6nYmz9C2AbWlC
+RfuuaE7G19TKyVp7ikgcT2/hWHNBITwd67zXD11nynBKdUJEhaS2PDCFL1H7w9H1
+YnELcFGI225ltMrjCmCBKZpgCAe7eyLh7Mg26DIpEvhrpyfNbQ0LHkqHMp4jCZ7w
+9GOn4ksIQc7/jcnGNE8qZ5lYwmfjluXEXTL2wLzl08fKZUSyWj/IIaqOX+9XPwBM
+ZVwWTQiX0Uk8KgjTF45yq9MIz+1rnFn50sSOhbUnZGj0efomgrmlNVEMERHTZAGP
+38l6S1kthj/98WiUC60Bm0TdEbNYD1lgRWuTt0wg3SHUoLSqO+lBqR3cTQr3Dx0s
+7hDdB974qM339ntmf8+x+tDgEikRheHyHPOnzJ7QmGPrJoW/T0SRFfOiyznDH/qo
+SXCO/K1Q4930SdcIgqRVLY3vowFPGvCHCT6X/SaxD+ynzvCnVTuHAU3nbs/dsSNi
+q43nilB0TqAF/IxLAgMBAAGjggFRMIIBTTAJBgNVHRMEAjAAMC0GCWCGSAGG+EIB
+DQQgFh5FYXN5LVJTQSBHZW5lcmF0ZWQgQ2VydGlmaWNhdGUwHQYDVR0OBBYEFAyf
+r+O7WJw/DaOFJJ05QqlbWCeOMIHPBgNVHSMEgccwgcSAFBq1FazYJB7UDtoFPQ3T
+BAe1OnNGoYGgpIGdMIGaMQswCQYDVQQGEwJETzELMAkGA1UECBMCU0ExETAPBgNV
+BAcTCFNhbnRpYWdvMQ4wDAYDVQQKEwVwdWNtbTEOMAwGA1UECxMFcHVjbW0xDzAN
+BgNVBAMTBnNlcnZlcjEOMAwGA1UEKRMFYWRtaW4xKjAoBgkqhkiG9w0BCQEWG2pl
+YW5vc2NhcmNlc2FyQHB1Y21tLmNvbQgICIIJANDd1mb5PLFwMBMGA1UdJQQMMAoG
+CCsGAQUFBwMCMAsGA1UdDwQEAwIHgDANBgkqhkiG9w0BAQUFAAOCAgEAKwbWEdr8
+6MEEndMVjwX3WRhYQNpTseWUYzkM96qBiMMTRmfRSAnOZI5Nt2Xwu15XHhpYVtsj
+lkmUflDsVajOamLpymBICi3s98JHpqMJrRKcPUbjdgN3fxpb0u7cQahqNEPe/5WE
+0r6ovfdUWBbSRDp+gMFU7PWVY+8ihNK5CzsyE8Bn5qPKlPuAopyQ1fjmTScXFlPh
+e2PCHZHxx3kWKm66yrH5ReeZSSR8sEDRBNURVkyLrkpeKl9l2KcQolwWVlnkYNt0
+hOdlk/RFJXrhcCTfAAe6d8+CVnPwLfirtlc9tK7I2/3evGg+RyH2SzSQfFdlh6iF
+bH6DA5JnKlbjRH3xVPKomI+V5IsRw8Wyr4DWaXlQOXt8vQM+cNbE/H2vj5gQ9t5s
+e7MLqpmxRUMkLMqog4haBPLp+L2JWXhQ8zCfv5X5BfEp1kxjIc+tfYPAnBuBuZ0b
+hTP+OvdPY+QTiOMrU1v4pr7Q1u9Jnvxavm5zD87iOCGT22ou+KFHWKzNCggiHDbw
+hAY3Z2DEyl/91qVWWEuQENPUCedChVo88a3rERXURO/6mnnDzo+0tmBX6WnpFCaa
+exgfmnwcXF/Y2/bU4VAfv2/wsKxuitzJzrGc5qz//1sh3UdOeTBZlG1AsfmVXPZ3
+RnF17qkWXm7d0qNVZQc0NSQTZ+dywJoAfxg=
+-----END CERTIFICATE-----
